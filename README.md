@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ali
-* 🌍  I'm based in Turkey
+* 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [alicnblt1604@gmail.com](mailto:alicnblt1604@gmail.com)
 
 Skills: HTML / CSS / JS / ANGULAR / REACT
