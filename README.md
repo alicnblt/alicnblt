@@ -4,10 +4,9 @@
   </a>
 </h1>
 * 🌍  I'm based in İstanbul
-* ✉️  You can contact me at [alicnblt1604@gmail.com](mailto:alicnblt1604@gmail.com)
+* ✉️  You can contact me at [alicnblt1604@gmail.com]
 
-Skills: HTML / CSS / JS / ANGULAR / REACT
-
+# 🚀 Skills:
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,6 +16,12 @@ Skills: HTML / CSS / JS / ANGULAR / REACT
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+
+# 👩‍💻 Coding Plathforms:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/alicnblt1604)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/ali-canbolat)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='freecodecamp' height='40'>](https://codepen.io/alicnblt)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicnblt)](https://github.com/anuraghazra/github-readme-stats)
 
