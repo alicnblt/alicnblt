@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/alicnblt">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Front+End+Developer!;Ali+Canbolat&center=true&size=25">
   </a>
 </h1>
