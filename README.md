@@ -1,4 +1,8 @@
-### Hi there 👋, my name is Ali
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Front+End+Developer!;Ali+Canbolat&center=true&size=25">
+  </a>
+</h1>
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [alicnblt1604@gmail.com](mailto:alicnblt1604@gmail.com)
 
